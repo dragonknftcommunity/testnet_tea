@@ -1,6 +1,6 @@
 {
   "name": "testnet_tea",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "private": false,
   "scripts": {
     "dev": "next dev",
